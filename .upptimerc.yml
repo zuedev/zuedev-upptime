@@ -2,8 +2,30 @@ owner: zuedev
 repo: zuedev-upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: zue.dev
+    url: https://zue.dev
+  - name: about.zue.dev
+    url: https://about.zue.dev
+  - name: t1.zue.dev
+    url: https://t1.zue.dev
+  - name: 96.zue.dev
+    url: https://96.zue.dev
+  - name: bbg.zue.dev
+    url: https://bbg.zue.dev
+
+  - name: unnamed.group
+    url: https://unnamed.group
+
+  - name: uagpmc.com
+    url: https://uagpmc.com
+
+  - name: graysonld.com
+    url: https://graysonld.com
+
+  - name: yayjaybae.com
+    url: https://yayjaybae.com
+  - name: teamsweets.com
+    url: https://teamsweets.com
 
 status-website:
   theme: night
