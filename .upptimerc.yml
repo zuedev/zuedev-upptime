@@ -6,7 +6,8 @@ sites:
     url: https://www.google.com
 
 status-website:
-  baseUrl: /zuedev-upptimenavbar:
+  baseUrl: /zuedev-upptime
+  navbar:
     - title: Status
       href: /
     - title: GitHub
