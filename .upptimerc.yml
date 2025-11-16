@@ -6,6 +6,7 @@ sites:
     url: https://www.google.com
 
 status-website:
+  theme: night
   baseUrl: /zuedev-upptime
   navbar:
     - title: Status
