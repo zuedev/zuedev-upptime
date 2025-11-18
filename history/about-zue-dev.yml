@@ -1,7 +1,7 @@
 url: https://about.zue.dev
-status: up
-code: 200
-responseTime: 162
-lastUpdated: 2025-11-17T23:02:38.730Z
+status: down
+code: 500
+responseTime: 66
+lastUpdated: 2025-11-18T11:35:56.299Z
 startTime: 2025-11-16T13:05:14.275Z
 generator: Upptime <https://github.com/upptime/upptime>
